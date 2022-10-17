@@ -8,7 +8,7 @@ Library management system is all about organizing, managing the library and libr
 
 ### Objective of this project:
 
-The main aim of this project is providing an easy to handle and automated library management system. This project also provides features and interface for maintaining librarian’s records, student’s history of issue and defaulters.
+The main aim of this project is providing an ease to handle and automated library management system. This project also provides features and interface for maintaining librarian’s records, student’s history of issue and defaulters.
 
 The owner can easily update, delete and insert data in the database with this project.The following are some of the features provided by this project:
 
